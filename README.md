@@ -146,3 +146,9 @@
   - [https://kentcdodds.com/blog/usememo-and-usecallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 
   – [The Problem with React's Context API](https://leewarrick.com/blog/the-problem-with-context/)
+
+---
+
+## Resources
+
+  - [React Interview Questions & Answers](https://github.com/in-tech-gration/reactjs-interview-questions/)
