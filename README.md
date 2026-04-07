@@ -115,8 +115,34 @@
   - Topics: `useRef` (Part 2)
     - See [README](./DAY.07/README.md)
 
-    ---
+---
 
 ## Day 08
 
   - See [README](./DAY.08/README.md)
+
+---
+
+## Day 09
+
+---
+
+## Day 10
+
+  **Study & Practice**
+
+  - [https://react.dev/reference/react/memo](https://react.dev/reference/react/memo)
+  - [https://react.dev/reference/react/useMemo](https://react.dev/reference/react/useMemo)
+  - [https://react.dev/reference/react/useCallback](https://react.dev/reference/react/useCallback)
+  
+---
+
+## Day 11
+
+  **Study & Practice**
+
+  - [https://react.dev/reference/react/useContext](https://react.dev/reference/react/useContext)
+
+  - [https://kentcdodds.com/blog/usememo-and-usecallback](https://kentcdodds.com/blog/usememo-and-usecallback)
+
+  – [The Problem with React's Context API](https://leewarrick.com/blog/the-problem-with-context/)
